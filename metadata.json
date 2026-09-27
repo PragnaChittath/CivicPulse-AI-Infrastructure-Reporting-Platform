@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse – AI Infrastructure Reporting Platform",
+  "description": "Next-generation civic infrastructure reporting, AI-powered issue detection, real-time tracking, multilingual support across Indian languages, and municipal predictive analytics.",
+  "requestFramePermissions": ["geolocation", "microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
